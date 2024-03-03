@@ -1,0 +1,137 @@
+/* Responsive CSS */
+@media screen and (max-width: 900px) {
+    .btn {
+      display: none;
+    }
+  
+    .com-career-img {
+      text-align: center;
+      width: 100%;
+    }
+  
+    .inner-des {
+      font-size: 11px;
+    }
+    .register-btn{
+      display:block
+    }
+    .register-img{
+      display: none;
+    }
+    .elementor-content-reguister{
+      display:flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .pr-15{
+      padding-right:0px !important
+    }
+  
+  }
+  
+  @media screen and (max-width: 820px) {
+    .career-description {
+      width: 100%;
+    }
+  
+    .shap2-img {
+      margin-top: -14em
+    }
+  }
+  
+  @media screen and (max-width: 430px) {
+    .career-img {
+      width: 300px;
+    }
+    .famous-wrapper{
+      font-size: 12px;
+    }
+    .elementor-register, .register-btn{
+      font-size: 11px !important;
+    }
+    .errow-up{
+      display:none
+    }
+  
+  }
+  
+  @media screen and (max-width: 575px) {
+    .header-title .main-heading {
+      font-size: 22px;
+      line-height: 52px;
+    }
+  
+    .carrer-heading {
+      font-size: 14px;
+      line-height: 40px;
+    }
+  
+    .banner-img {
+      padding: 15px 0px;
+    }
+  
+    .header-container,
+    .career-container {
+      padding-bottom: 0px;
+    }
+  
+    .popular-content-description {
+      display: block
+    }
+  
+    .inner-des {
+      font-size: 11px;
+    }
+  
+    .elementor-wrapper {
+      padding-top: 70px
+    }
+  
+    .shap2 {
+      width: 80px
+    }
+  
+    .custom-cards,
+    .custom-card {
+      width: auto;
+      height: auto
+    }
+  
+    .star-favicons {
+      width: 14px
+    }
+  
+    .text-mds {
+      font-size: 10px
+    }
+  
+    .wrapper-content {
+      padding-top: 30px;
+    }
+    .career-descriptions {
+      width: 100%
+    }
+    .elementor-register{
+      font-size: 14px;
+    }
+    .errow-up{
+      margin-left:7em;
+      margin-top:.2em
+    }
+    .footer-icons{
+      display:flex;
+      justify-content: center;
+    }
+    .sm-center{
+      text-align:center
+    }
+    .mt-15{
+      margin-top:15px
+    }
+    .compant-img .com-img {
+      width: 280px;
+      height: 30px;
+  
+    }
+  
+  }
